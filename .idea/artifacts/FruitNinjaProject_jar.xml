@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FruitNinjaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FruitNinjaProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FruitNinjaProject.jar">
+        <element id="module-output" name="FruitNinjaProject" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
